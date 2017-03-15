@@ -1,4 +1,4 @@
-﻿## **Kiểu Dữ Liệu**  
+## **Kiểu Dữ Liệu**  
 **boolean:** **true** hoặc **false**  
 **int:** số nguyên  
 **double:** số thực  
