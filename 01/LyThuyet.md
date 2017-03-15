@@ -1,10 +1,10 @@
-﻿##**Kiểu Dữ Liệu**  
+﻿## **Kiểu Dữ Liệu**  
 **boolean:** **true** hoặc **false**  
 **int:** số nguyên  
 **double:** số thực  
 **String:** văn bản ("nhập văn bản")  
   
-##**Biến, Phép Gán, Kết Hợp**  
+## **Biến, Phép Gán, Kết Hợp**  
 **Type** Name;  
 **Ví dụ**  
 ```  
@@ -22,7 +22,7 @@ int diem = 9;
 
 ```  
   
-##**Toán Tử**  
+## **Toán Tử**  
 -Cộng: +  
 -Trừ: -  
 -Nhân: *  
@@ -30,7 +30,7 @@ int diem = 9;
 -Chia lấy dư: %  
 -Gán: =  
   
-##**Phương Thức**  
+## **Phương Thức**  
 **Khai báo:**  
 ```  
 public static void NAME(){  
@@ -41,7 +41,7 @@ public static void NAME(){
 ```  
 NAME();  
 ```  
-##**If-Else**  
+## **If-Else**  
 **Cú pháp**  
 ```If(điều kiện){  lệnh  }else{  lệnh  }```  
 
