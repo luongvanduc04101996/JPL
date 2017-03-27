@@ -1,7 +1,7 @@
-﻿##**Phong Cách Lập Trình**  
-*Dễ đọc  
-*Dễ hiểu  
-*Đặt tên biến có liên quan đến việc cần dùng - đầy đủ ý nghĩa  
+﻿## Phong Cách Lập Trình  
+* Dễ đọc  
+* Dễ hiểu  
+* Đặt tên biến có liên quan đến việc cần dùng - đầy đủ ý nghĩa  
   
 ```  
 String hovaten; // good  
@@ -20,8 +20,8 @@ for (đk khởi tạo;đk so sánh;thay đổi đk)  {  Lệnh  }
 *Ví dụ  
 for( int i = 1 ; i <5 ; i++ ){  System.out.println("DUC");  }  
 ```  
-*__Break__: Để thoát khỏi vòng lập  
-*__Continue__: Để tiếp tục vòng lập với đk tiếp theo  
+* __Break__: Để thoát khỏi vòng lập  
+* __Continue__: Để tiếp tục vòng lập với đk tiếp theo  
   
 ## Mảng  
   
