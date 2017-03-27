@@ -21,7 +21,9 @@ while (điều kiện){
 }  
   
 * Ví dụ  
-for( int i = 1 ; i <5 ; i++ ){  System.out.println("DUC");  }  
+for( int i = 1 ; i <5 ; i++ ){  
+System.out.println("DUC");  
+}  
 
 * __Break__: Để thoát khỏi vòng lập  
 * __Continue__: Để tiếp tục vòng lập với đk tiếp theo  
