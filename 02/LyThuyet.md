@@ -12,11 +12,13 @@ String a; // bad
 **While**  
 ```  
 while (điều kiện){  
-Lệnh  
+  Lệnh  
 }    
 ```  
 **For**  
-* for (đk khởi tạo;đk so sánh;thay đổi đk)  {  Lệnh  }  
+* for (đk khởi tạo;đk so sánh;thay đổi đk){  
+  Lệnh  
+}  
   
 * Ví dụ  
 for( int i = 1 ; i <5 ; i++ ){  System.out.println("DUC");  }  
