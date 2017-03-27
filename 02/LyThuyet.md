@@ -36,3 +36,7 @@ System.out.println("DUC");
 * Danh sách các giá trị được đánh chỉ số  
 * Có thể tạo mảng các String, int, double ...  
 * Mỗi phần tử trong mảng phải cùng kiểu dữ liệu  
+__Ví Dụ__  
+```  
+int[] songuyen = new int [5];  
+```
