@@ -11,7 +11,9 @@ String a; // bad
 ## Loop  
 **While**  
 ```  
-while (điều kiện){  Lệnh  }    
+while (điều kiện){  
+Lệnh  
+}    
 ```  
 **For**  
 * for (đk khởi tạo;đk so sánh;thay đổi đk)  {  Lệnh  }  
