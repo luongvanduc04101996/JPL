@@ -11,15 +11,14 @@ String a; // bad
 ## Loop  
 **While**  
 ```  
-while (điều kiện){  	Lệnh  }  
-  
+while (điều kiện){  Lệnh  }    
+```  
 **For**  
-```  
-for (đk khởi tạo;đk so sánh;thay đổi đk)  {  Lệnh  }  
+* for (đk khởi tạo;đk so sánh;thay đổi đk)  {  Lệnh  }  
   
-*Ví dụ  
+* Ví dụ  
 for( int i = 1 ; i <5 ; i++ ){  System.out.println("DUC");  }  
-```  
+
 * __Break__: Để thoát khỏi vòng lập  
 * __Continue__: Để tiếp tục vòng lập với đk tiếp theo  
   
